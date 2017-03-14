@@ -4,6 +4,7 @@ public class GitProject {
     String gitName;
     String gitNum;
     Integer userAg;
+	String myName;
 	public Integer getUserAg() {
 		return userAg;
 	}
