@@ -3,12 +3,12 @@ package com.git.test;
 public class GitProject {
     String gitName;
     String gitNum;
-    Integer userAge;
-	public Integer getUserAge() {
-		return userAge;
+    Integer userAg;
+	public Integer getUserAg() {
+		return userAg;
 	}
-	public void setUserAge(Integer userAge) {
-		this.userAge = userAge;
+	public void setUserAg(Integer userAg) {
+		this.userAg = userAg;
 	}
 	public String getGitNum() {
 		return gitNum;
