@@ -5,7 +5,7 @@ public class GitProject {
     String gitNum;
     Integer userAg;
 	String myName;
-	String myAge;
+	String myAge123;
 	public Integer getUserAg() {
 		return userAg;
 	}
