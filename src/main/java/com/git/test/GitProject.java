@@ -7,7 +7,7 @@ public class GitProject {
 	public Integer getUserAg() {
 		return userAg;
 	}
-	public void setUserAg(Integer userAg) {
+	public void setUserAg(Integer user) {
 		this.userAg = userAg;
 	}
 	public String getGitNum() {
