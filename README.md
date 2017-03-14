@@ -1,2 +1,2 @@
 # oaGitSystem
-eclipsetestproject
+eclipsetest
